@@ -87,6 +87,6 @@ This repository includes one example template:
    - Include CSS directly in the template using `<style>` tags for simplicity, or
    - Use Tailwind CSS via CDN for a utility-first approach without custom CSS
 2. **Responsive Design**: Ensure the template works well on different screen sizes
-3. **Conditional Sections**: Use `{% if %}` blocks to conditionally display sections based on data availability
+3. **Conditional Sections**: Use if blocks to conditionally display sections based on data availability
 4. **Comments**: Include comments in your template to explain complex sections
 5. **Accessibility**: Use semantic HTML and proper ARIA attributes for accessibility
